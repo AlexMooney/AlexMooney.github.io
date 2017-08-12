@@ -1,1 +1,18 @@
+title: Alex's Blog
+email: AlexMMooney@gmail.com
+descrption: >
+  Stuff about coding and pen and paper RPGs
+baseurl: ""
+url: "https://AlexMooney.github.io"
+github_username: AlexMooney
+
+markdown: kramdown
 theme: jekyll-theme-hacker
+show_downloads: false
+google_analytics: 'UA-104407516-1'
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - vendor/bundle/
