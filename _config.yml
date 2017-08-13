@@ -1,9 +1,9 @@
-title: Alex's Blog
-descrption: >
-  Stuff about coding and pen and paper RPGs
+title: Alex Mooney's Blog
+description: >
+  Mostly about coding, with other stuff sprinkled in
 baseurl: ""
 url: "https://AlexMooney.github.io"
-permalink: /:categories/:title/
+permalink: /:categories/:year-:month-:day/:title
 
 email: AlexMMooney@gmail.com
 github_username: AlexMooney
