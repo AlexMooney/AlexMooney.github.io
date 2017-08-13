@@ -1,9 +1,11 @@
 title: Alex's Blog
-email: AlexMMooney@gmail.com
 descrption: >
   Stuff about coding and pen and paper RPGs
 baseurl: ""
 url: "https://AlexMooney.github.io"
+permalink: /:categories/:title/
+
+email: AlexMMooney@gmail.com
 github_username: AlexMooney
 
 markdown: kramdown
