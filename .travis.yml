@@ -1,0 +1,8 @@
+languate: ruby
+rvm:
+  - 2.2
+install:
+  - bundle install --jobs=2 --with=test
+script:
+  - bundle exec jekyll build
+  - cd _site && bundle exec check-links
