@@ -8,6 +8,8 @@ permalink: /
 
 [My trip to China through CoverMyQuest](https://www.covermymeds.com/main/covermyquest-alex-mooney/)
 
+[RSS Feed]({{ site.url}}{% link pages/feed.xml %})
+
 ### Recent posts
 <ul>
   {% for post in site.posts limit:10 %}
