@@ -1,7 +1,7 @@
 ---
 title: Spinning up Jekyll
 layout: default
-date: 2017-08-12T22:50:05 -0400
+date: '2017-08-12T22:50:05 -0400'
 categories: web
 ---
 
