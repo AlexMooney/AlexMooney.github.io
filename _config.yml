@@ -8,6 +8,7 @@ permalink: /:categories/:year-:month-:day/:title
 email: AlexMMooney@gmail.com
 github_username: AlexMooney
 
+timezone: America/Los_Angeles
 markdown: kramdown
 theme: jekyll-theme-hacker
 show_downloads: false

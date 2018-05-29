@@ -1,7 +1,7 @@
 ---
 title: Playing with Vue.js at Pair Columbus
 layout: default
-date: 2017-08-13T10:58:36 -0400
+date: '2017-08-13T10:58:36 -0400'
 categories: web
 ---
 
