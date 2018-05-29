@@ -1,6 +1,8 @@
 languate: ruby
 rvm:
   - 2.2
+before_install:
+- export TZ=America/Los_Angeles
 install:
   - bundle install --jobs=2 --with=test
 script:
